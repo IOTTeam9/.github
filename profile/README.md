@@ -1,12 +1,13 @@
-## Hi there 👋
+## Hi there 👋 We are IoT Team 9th
 
-<!--
+# TitleTitle
+### Gachon University
+School of Computing Software Major<br />
+Introduction to Internet of Things (13966_001) Spring 2023<br/>
+Instructor: Prof. Jaehyuk Choi (jchoi@gachon.ac.kr)
 
-**Here are some ideas to get you started:**
+---
+## Team 9th
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- AAA
+  - Jaedeok Han (202135593, hjd0907@gachon.ac.kr)
