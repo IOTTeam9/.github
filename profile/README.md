@@ -1,5 +1,4 @@
 ## Hi there 👋 We are IoT Team 9th
-
 # TitleTitle
 ### Gachon University
 School of Computing Software Major<br />
