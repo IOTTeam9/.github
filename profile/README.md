@@ -12,3 +12,4 @@ Instructor: Prof. Jaehyuk Choi (jchoi@gachon.ac.kr)
 - AAA
   - Jaedeok Han (202135593, hjd0907@gachon.ac.kr)
   - Geonyoung Kang (201935001, kky6335@gmail.com)
+  - Somi Nam (202135528, somi4219@gmail.com)
