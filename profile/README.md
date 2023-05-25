@@ -7,10 +7,8 @@ Instructor: Prof. Jaehyuk Choi (jchoi@gachon.ac.kr)
 
 ---
 ## Team 9th
-
-- Team Member
-  - Jaedeok Han (202135593, hjd0907@gachon.ac.kr)
-  - Geonyoung Kang (201935001, kky6335@gmail.com)
-  - Somi Nam (202135528, somi4219@gmail.com)
-  - **Minsung Jang(201935122, jmin314@naver.com) _Team Leader_** 👑
-  - Seohyeon Lee(201935097, chaconne@gachon.ac.kr)
+ - Geonyoung Kang (201935001, kky6335@gmail.com)
+ - Seohyeon Lee(201935097, chaconne@gachon.ac.kr)
+ - **Minsung Jang(201935122, jmin314@naver.com) _Team Leader_** 👑
+ - Somi Nam (202135528, somi4219@gmail.com)
+ - Jaedeok Han (202135593, hjd0907@gachon.ac.kr)
